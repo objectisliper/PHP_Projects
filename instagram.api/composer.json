@@ -1,0 +1,6 @@
+{
+    "require": {
+        "raiym/instagram-php-scraper": "^0.8.22",
+        "jenssegers/proxy": "^3.0"
+    }
+}

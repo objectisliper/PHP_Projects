@@ -1,0 +1,26 @@
+body{
+	margin: 10% !important;
+}
+
+.container{
+	margin-bottom: 5% !important;
+}
+
+.repo-inf{
+	height: 200px;
+	background-color: lightgrey !important;
+	
+	margin-left: 15px !important;
+	padding: 2% !important;
+}
+
+#ajax_button{
+	background-color: lightgrey;
+	border-radius: 5px;
+	padding: 5px;
+}
+
+#profile_img{
+	background-size: cover !important;
+    height: 78px !important;
+}

@@ -1,0 +1,11 @@
+{
+    "require": {
+        "symfony/website-skeleton": "^3.4"
+    },
+    "scripts": {
+        "auto-scripts": {
+            "cache:clear": "symfony-cmd",
+            "assets:install %PUBLIC_DIR%": "symfony-cmd"
+        }
+    }
+}
